@@ -1,0 +1,203 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color:black;
+    color: whitesmoke;
+    padding: 20px;
+    margin: 20px;
+    border-color:ghostwhite;
+    border-width: 10px;
+    border-style:double;
+}
+ul,li{
+    display: inline;
+    padding-left: 10px;
+    color:white;
+    cursor: grabbing;
+}
+.one{
+    display: inline;
+    cursor:-webkit-zoom-in;
+    color:white;
+}
+ul{
+    margin-left: 55%;
+}
+.one{
+    cursor:-moz-zoom-in;
+}
+li:hover{
+    color:aquamarine ;
+}
+.one:hover{
+    color: aqua;
+}
+h1:hover{
+    color:magenta;
+}
+h1{
+    cursor: wait;
+}
+input{
+    width: 60%;
+    padding:10px;
+    margin:20px;
+    text-align: center;
+    font-size: 20px;
+}
+.two{
+    text-align: center;
+}
+input{
+    cursor:zoom-in;
+}
+.three{
+    background-color:aqua ;
+    border-color: black;
+    border-radius: 200px;
+    border-style:solid ;
+    display: inline;
+    padding: 50px;
+}
+.four{
+        background-color:aqua ;
+        border-color: black;
+        border-radius: 200px;
+        border-style:solid ;
+        display: inline;
+        padding: 50px;
+    }
+.five{
+    background-color:aqua ;
+    border-color: black;
+    border-radius: 200px;
+    border-style:solid ;
+    display: inline;
+    padding: 50px;
+}
+.course{
+    text-align: center;
+}
+.hop{
+    color: black;
+    display: inline;
+    padding: 10px;
+    margin: 13%;
+}
+.lop{
+    color: black;
+    display: inline;
+    padding: 10px;
+    margin: 20%px;
+}
+.top{
+    color:black;
+    display: inline;
+    padding: 10px;
+    margin: 7%;
+}
+.hop,.lop,.top,{
+    cursor:wait;
+}
+.hyper,.studio,.java{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 10px;
+}
+.name,.year,.clg,.degree,.mail,.mob,.address{
+    font-size: 25px;
+}
+.text,.nom,.clgii,.mailer,.mobno,.addro,{
+    font-size: 12px;
+}
+.yesno{
+    font-size: 30px;
+}
+.yesno{
+    margin: 22px;
+}  
+.name,.year,.clg,.degree,.mail,.mob,.address
+{
+    background-color: blueviolet;
+    color:black;
+    padding: 2px;
+    border-color:black;
+    border-radius: 10px; 
+    border-width: 15px;
+    border-style:outset;
+}
+.hyper{
+    background-color:limegreen;
+}
+.submit,.reset{
+    background-color :navy;
+    color:aquamarine;
+    padding: 2px;
+    border-color:black;
+    border-radius: 10px; 
+    border-width: 5px;
+    border-style:outset;
+}
+.back{
+    background-color :aqua;
+    color:white;
+    padding: 2px;
+    border-color:black;
+    border-radius: 10px; 
+    border-width: 5px;
+    border-style:outset;
+}
+.namee,.yearr,.clgg,.degreee,.maill,.mobb,.addresss
+{
+    background-color: aqua;
+    color:black;
+    padding: 2px;
+    border-color:black;
+    border-radius: 10px; 
+    border-width: 15px;
+    border-style:outset;
+}
+.studio{
+    background-color:darkviolet;
+}
+.nameee,.yearrr,.clggg,.degreeee,.mailll,.mobbb,.addressss{
+    background-color:darkmagenta;
+    color:black;
+    padding: 2px;
+    border-color:black;
+    border-radius: 10px; 
+    border-width: 15px;
+    border-style:inset;
+}
+.java{
+    background-color:mediumturquoise;
+} 
+.openingtime{
+    margin-left:50px;
+    margin-top: 50px;
+    font-size: 40px;
+    border-color:burlywood;
+    border-radius: 20px;
+    border-style:inset;
+    padding: 10px;
+    border-width: 10px;
+}
+.day,.time{
+    margin-top: 20px; 
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    width: 30px;
+} 
+.monk,.tue,.wed,.thu,.fri{
+    font-size: 30px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.hello,.hey,.hii,.oii,.bye{
+    font-size: 25px;
+    border-width: 30px;
+    border-color: cadetblue;
+}
